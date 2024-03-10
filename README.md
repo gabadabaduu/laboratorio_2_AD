@@ -2,13 +2,13 @@
 ##### En este laboratorio, desarrollarás un motor de búsqueda de cursos y un rastreador web que recopila información de un catálogo universitario para construir un índice. El objetivo es brindarte experiencia en programación en Python y trabajar con documentos HTML obtenidos de la web.
 #### Autores: Gabriela Mercedes Luigi, David Mateo Henao
 
-- #######Introducción:
-        Para el desarrollo de este taller vamos a estar utilizando como nuestra  base de información el portal Web de la Javeriana para los cursos que la universidad ofrece parte de las carreras de Pregrado, Posgrados y Titulaciones. Este fue el enlace utilizado para el desarrollo de este proyecto: 
+- ##### Introducción:
+  Para el desarrollo de este taller vamos a estar utilizando como nuestra  base de información el portal Web de la Javeriana para los cursos que la universidad ofrece parte de las carreras de Pregrado, Posgrados y Titulaciones. Este fue el enlace utilizado para el desarrollo de este proyecto: 
   https://educacionvirtual.javeriana.edu.co/temporomandibulares
 
- .Con el fin de lograr este objetivo, desarrollaron tres programas principales: crawler.py, search.py y compare.py, cada uno desempeñando un papel crucial en el proceso de recopilación, búsqueda y comparación de datos.
+  Con el fin de lograr este objetivo, desarrollaron tres programas principales: crawler.py, search.py y compare.py, cada uno desempeñando un papel crucial en el proceso de recopilación, búsqueda y comparación de datos.
 
-- #######Procedimiento:
+- ##### Procedimiento:
 
   En primer lugar, el programa crawler.py se encargó de rastrear el sitio web de la universidad objetivo y extraer información relevante sobre los cursos         disponibles. Utilizando la biblioteca BeautifulSoup para analizar el contenido HTML de las páginas web, el rastreador identificó los elementos que contenían detalles sobre los cursos, tales como el nombre, la duración, el nivel de dificultad, la fecha de inicio y el precio. Luego de recolectar estos datos, los almacenó en un formato estructurado, primero en un archivo JSON para una fácil manipulación y luego exportándolos a un archivo CSV para un análisis más tabular y accesible.
 
