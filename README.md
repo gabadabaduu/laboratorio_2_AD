@@ -3,7 +3,7 @@
 #### Autores: Gabriela Mercedes Luigi, David Mateo Henao
 
 [![My Skills](https://skills.thijs.gg/icons?i=py,mysql)](https://skills.thijs.gg)
-https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252
+[![My Skills](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)]
 
 - ##### Introducción:
   Para el desarrollo de este taller vamos a estar utilizando como nuestra  base de información el portal Web de la Javeriana para los cursos que la universidad ofrece parte de las carreras de Pregrado, Posgrados y Titulaciones. Este fue el enlace utilizado para el desarrollo de este proyecto: 
