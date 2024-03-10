@@ -2,7 +2,8 @@
 ##### En este laboratorio, desarrollarás un motor de búsqueda de cursos y un rastreador web que recopila información de un catálogo universitario para construir un índice. El objetivo es brindarte experiencia en programación en Python y trabajar con documentos HTML obtenidos de la web.
 #### Autores: Gabriela Mercedes Luigi, David Mateo Henao
 
-(https://skills.thijs.gg/icons?i=py)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,mysql)](https://skills.thijs.gg)
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="36" height="46" />
 
 - ##### Introducción:
   Para el desarrollo de este taller vamos a estar utilizando como nuestra  base de información el portal Web de la Javeriana para los cursos que la universidad ofrece parte de las carreras de Pregrado, Posgrados y Titulaciones. Este fue el enlace utilizado para el desarrollo de este proyecto: 
